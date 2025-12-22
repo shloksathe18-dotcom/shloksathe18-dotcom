@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/shloksathe18-dotcom">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CS+(Data+Science)+Student;Python+Full-Stack+Developer;AI+%26+ML+Enthusiast;Backend+%26+Automation+Developer&font=Poppins&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=42"
+      src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CS+(Data+Science)+Student🎓;Python+Full-Stack+Developer💻;AI+%26+ML+Enthusiast🤖👾;Backend+%26+Automation+Developer🌐⚙&font=Poppins&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=42"
       alt="Typing SVG"
     />
   </a>
@@ -18,7 +18,7 @@
 <!-- Second Typing Line (Multiple lines added) -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=I+love+building+real-world+applications+🚀;Turning+ideas+into+working+solutions;Learning+AI,+Backend+%26+Automation&font=Poppins&center=true&width=900&height=100&color=9ecbff&vCenter=true&size=30"
+    src="https://readme-typing-svg.herokuapp.com/?lines=I+love+building+real-world+applications+🚀;Turning+ideas+into+working+solutions💫;Learning+AI,+Backend+%26+Automation⚡&font=Poppins&center=true&width=900&height=100&color=9ecbff&vCenter=true&size=30"
     alt="Typing SVG"
   />
 </p>
@@ -32,9 +32,50 @@
   />
 </p>
 
+<h2 align="center">💫 About Me</h2>
 
-# 💫 About Me:
-- 🔭 I’m currently working on:  <br>  Python Full-Stack projects and AI-based applications (Flask, MySQL)<br><br>- 👯 I’m looking to collaborate on:  <br>  Python, AI/ML, Full-Stack Development, and Open-Source projects<br><br>- 🤔 I’m looking for help with:  <br>  Advanced AI models, system optimization, and scalable backend design<br><br>- 🌱 I’m currently learning:  <br>  Advanced Python, Deep Learning, and Backend System Design<br><br>- 💬 Ask me about:  <br>  Python, Flask, AI Voice Assistants, Chatbots, MySQL, Postman<br><br>- ⚡ Fun fact:  <br>  I love turning ideas into real-world working applications 🚀<br>
+<p align="center">
+  <i>Learning AI, Backend & Automation — building real-world solutions 🚀</i>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="600">
+
+🔭 <b>Currently Working On</b><br>
+Python Full-Stack Projects & AI-Based Applications  
+(Flask, MySQL)
+
+<br><br>
+
+👯 <b>Looking to Collaborate On</b><br>
+Python • AI/ML • Full-Stack Development • Open-Source Projects
+
+<br><br>
+
+🤔 <b>Looking for Help With</b><br>
+Advanced AI Models, System Optimization & Scalable Backend Design
+
+<br><br>
+
+🌱 <b>Currently Learning</b><br>
+Advanced Python, Deep Learning & Backend System Design
+
+<br><br>
+
+💬 <b>Ask Me About</b><br>
+Python • Flask • AI Voice Assistants • Chatbots • MySQL • Postman
+
+<br><br>
+
+⚡ <b>Fun Fact</b><br>
+I love turning ideas into real-world working applications 🚀
+
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
