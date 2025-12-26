@@ -89,6 +89,17 @@ I love turning ideas into real-world working applications 🚀
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🐍 HackerRank Python Certifications
+
+- Python (Basic)
+- Python (Intermediate)
+- Problem Solving (Python-based)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba1de4d7-7764-4900-9c5c-25b1e5b604fa" width="700">
+</p>
+
+
 ## Snake Animation
 
 ![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
