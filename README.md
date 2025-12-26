@@ -89,4 +89,14 @@ I love turning ideas into real-world working applications 🚀
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## Snake Animation
+
+![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
