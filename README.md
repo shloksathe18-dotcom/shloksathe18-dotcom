@@ -89,7 +89,7 @@ I love turning ideas into real-world working applications 🚀
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🐍 HackerRank Python Certifications
+## 🐍 HackerRank Python Certifications.
 
 - Python (Basic)
 - Python (Intermediate)
